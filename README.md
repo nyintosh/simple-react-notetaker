@@ -1,6 +1,6 @@
-# Simple Note Taking App
+# React Note Taking App
 
-A simple note taking app using React JS and Bootstrap
+A simple note taking app using React JS and Bootstrap with Markdown support
 
 ## 🎰 Run Locally
 
